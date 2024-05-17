@@ -256,6 +256,16 @@ body{
 .cont-expert .cuadrado{
     border-radius: 20px;
 }
+.musica{
+    text-align: center;
+    margin: 30px;
+}
+audio{
+    text-align: center;
+    border-radius: 30px;
+    border: 2px solid blue;
+    background: blue;
+}
 
 .n-expert{
     color: rgb(141, 26, 187);
